@@ -1,0 +1,25 @@
+{
+  "name": "cms-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosass/cms-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosass/cms-monitor/issues"
+  },
+  "homepage": "https://github.com/mosass/cms-monitor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "mongoose": "^5.10.0"
+  }
+}
